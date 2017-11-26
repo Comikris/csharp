@@ -1,0 +1,28 @@
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\bin\Debug\game_model_remake.exe.config
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\bin\Debug\game_model_remake.exe
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\bin\Debug\game_model_remake.pdb
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake.csprojResolveAssemblyReference.cache
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\MainWindow.g.cs
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\App.g.cs
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake_MarkupCompile.cache
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake_MarkupCompile.lref
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\MainWindow.baml
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake.g.resources
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake.Properties.Resources.resources
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake.csproj.GenerateResource.Cache
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake.exe
+c:\users\kris\documents\visual studio 2015\Projects\game_model_remake\game_model_remake\obj\Debug\game_model_remake.pdb
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\bin\Debug\game_model_remake.exe.config
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake.exe
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake.pdb
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake.csprojResolveAssemblyReference.cache
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\MainWindow.g.cs
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\App.g.cs
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake_MarkupCompile.cache
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake_MarkupCompile.lref
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\bin\Debug\game_model_remake.exe
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\bin\Debug\game_model_remake.pdb
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\MainWindow.baml
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake.g.resources
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake.Properties.Resources.resources
+\\ADFSSTUD2\j-m\krl0093\WindowsSettings\Desktop\game_model_remake\game_model_remake\obj\Debug\game_model_remake.csproj.GenerateResource.Cache
